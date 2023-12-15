@@ -1,0 +1,41 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.common {
+    background-color: rgb(126, 7, 7);
+    position: absolute;
+    padding: 2px;
+}
+
+.header {
+    top: 5px;
+    left: 200px;
+    right: 200px;
+    height: 130px;
+    text-align: center;
+}
+
+.mainbody {
+    top: 144px;
+    left: 200px;
+    right: 200px;
+    bottom: 39px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 200px;
+    right: 200px;
+    height: 25px;
+}
+
+.bg{
+    background-image: url(Screenshot\ 2023-12-14\ 212351.png);
+}
